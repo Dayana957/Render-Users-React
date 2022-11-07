@@ -1,0 +1,12 @@
+.id-span,  .user-name, .email-p, .address, .company {
+    font-family: 'Playfair Display', serif;
+    font-weight:400;
+    color: #58afd1;
+}
+
+.id-span{
+    background-color: #231E39;
+    box-shadow: 0 10px 50px rgba(235, 25, 110, 1);
+    border-radius: 50%;
+    color: #58afd1;
+}
